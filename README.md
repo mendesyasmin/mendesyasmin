@@ -4,7 +4,7 @@ Procura por mim? Me ache aqui:
 
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendes-yasmin
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendes-yasmin/)
 <br> <br> 
 ![mendesyasmin GitHub stats](https://github-readme-stats.vercel.app/api?username=mendesyasmin&show_icons=true&theme=synthwave&count_private=true)
 <br>
